@@ -45,7 +45,7 @@ public class Executor {
 
     private final String URL = "https://api.vk.com/method/execute";
     private final String accessToken;
-    private final String V = "&v=" + 5.69;
+    private final String V = "&v=" + 5.131;
 
 
     /**
